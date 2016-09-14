@@ -1,2 +1,3 @@
-# word-backup
-MS Word backup macros
+﻿# MS Word macros
+
+Растущая коллекция всяких макросов ^^'
