@@ -2,14 +2,29 @@
 Original/
 Backups/
 Test/
+Tests/
+Misc/
+Rejected/
+Old Versions/
 
-# Windows image file caches
+# Service files...
+git*.sh
+curl-ca-bundle.crt
+
+# Windows image file caches...
 Thumbs.db
 ehthumbs.db
 photothumb.db
 
-# Folder config file
+# Folder config file...
 Desktop.ini
 
-# Windows shortcuts
+# Windows shortcuts...
 *.lnk
+
+# Backups...
+nppBackup/
+*.BAK
+*.BAK??
+*.bak
+*.bak??
